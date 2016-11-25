@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HLF.ERP.Service", "HLF.ERP.Service\HLF.ERP.Service.csproj", "{FD9DB340-1031-44E4-B3C6-DF2AD739EEBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HLF.ERP.Web", "HLF.ERP.Web\HLF.ERP.Web.csproj", "{BF1ABC31-4230-4485-ACB5-7E0AD080885D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD9DB340-1031-44E4-B3C6-DF2AD739EEBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD9DB340-1031-44E4-B3C6-DF2AD739EEBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD9DB340-1031-44E4-B3C6-DF2AD739EEBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD9DB340-1031-44E4-B3C6-DF2AD739EEBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF1ABC31-4230-4485-ACB5-7E0AD080885D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF1ABC31-4230-4485-ACB5-7E0AD080885D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF1ABC31-4230-4485-ACB5-7E0AD080885D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF1ABC31-4230-4485-ACB5-7E0AD080885D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
